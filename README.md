@@ -1,4 +1,4 @@
-jx-node
+JX 4 Nodejs
 =======
 Jx is a Javascript eXtension that is designed to offer developers a few handy utilities: 
 - design patterns like iterator, visitor and observer to cleanly handle object collections
