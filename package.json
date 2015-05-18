@@ -1,8 +1,11 @@
 {
   "name": "jx",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a package that is designed to offer tools & utilities: design patterns, mapreduce functions, math functions and a database interface to couchdb",
   "main": "index.js",
+  "depencendies": {
+    "httpsync": ">=0.0.8"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
